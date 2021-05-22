@@ -1,0 +1,36 @@
+[33mcommit 7a15baf4509133047d6d6fa53b464433b0e5c3c9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: hery <herynjakaras@gmail.com>
+Date:   Mon May 3 09:46:20 2021 +0300
+
+    Hello -> Hi
+
+[33mcommit 6f63ccfa09c1de8efe99a1e3339157af33baf0ef[m
+Merge: 89fa954 8a23b4a
+Author: hery <herynjakaras@gmail.com>
+Date:   Mon May 3 09:38:34 2021 +0300
+
+    Merge branch ''green-background''
+
+[33mcommit 89fa954b6a4f51836b5e033603bfab2b3ece7658[m
+Author: hery <herynjakaras@gmail.com>
+Date:   Mon May 3 09:33:51 2021 +0300
+
+    hi -> hello
+
+[33mcommit 8a23b4a0dccf917c86a39a2f06ad9f823c28be9a[m[33m ([m[1;32m'green-background'[m[33m)[m
+Author: hery <herynjakaras@gmail.com>
+Date:   Mon May 3 09:30:31 2021 +0300
+
+    Green background
+
+[33mcommit a95e1a71b8d11cc2cef9eb77833410b101824e45[m
+Author: hery <herynjakaras@gmail.com>
+Date:   Mon May 3 09:22:27 2021 +0300
+
+    Center the h1
+
+[33mcommit b35c9205a2f86bb94ae00922bbb640b4ebb32abc[m
+Author: hery <herynjakaras@gmail.com>
+Date:   Mon May 3 09:15:46 2021 +0300
+
+    Create first version of index file
